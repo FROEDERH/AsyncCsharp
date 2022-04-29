@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhKBS/Zf8tFle2MEBUVkEwFj6eCuKbfbDyCX/62tio7vgPhjjut+xjs8nwG/N1eSQVqsrVWVKR44++dFZlJZ/w==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\henri\\OneDrive\\Documentos\\AsyncCsharp\\programacao-assincrona-csharp\\ProgramacaoAssincrona\\ProgramacaoAssincrona\\AsyncCsharp\\ProgramacaoAssincrona\\ProgramacaoAssincrona.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
